@@ -1,0 +1,27 @@
+_repo: The-Ethics-of-George-Eliot-s-Works_17172
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, John Crombie
+    gutenberg_agent_id: '7191'
+    url: http://www.gutenberg.org/2009/agents/7191
+description: ''
+gutenberg_issued: '2005-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17172'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Eliot, George, 1819-1880 -- Ethics'
+- !lcsh 'Women and literature -- England -- History -- 19th century'
+- !lcsh 'Ethics in literature'
+- !lcc 'PR'
+- !lcsh 'Didactic fiction, English -- History and criticism'
+title: The Ethics of George Eliot's Works
+url: http://www.gutenberg.org/ebooks/17172
